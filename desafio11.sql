@@ -9,4 +9,4 @@ WHERE
     notes LIKE '%36' OR 
     notes LIKE '%37' OR 
     notes LIKE '%38' OR 
-    notes LIKE '%39' OR 
+    notes LIKE '%39';
